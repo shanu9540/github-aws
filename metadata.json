@@ -1,0 +1,6 @@
+{
+  "name": "AWS CI/CD Pipeline Architect & Deployment Guide",
+  "description": "Step-by-step interactive blueprint, live pipeline simulator, and production configuration generator to deploy Dockerized apps on AWS EC2 using GitHub Actions and Jenkins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
